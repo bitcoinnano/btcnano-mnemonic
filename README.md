@@ -2,8 +2,8 @@ BIP39 Mnemonics for btcnano
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/btcnano-mnemonic)
-[![Build Status](https://img.shields.io/travis/bitpay/bitcore-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-mnemonic)
-[![Coverage Status](https://img.shields.io/coveralls/bitcoinnano/btcnano-mnemonic.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-mnemonic)
+[![Build Status](https://img.shields.io/travis/bitcoinnano/btcnano-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/bitcoinnano/btcnano-mnemonic)
+[![Coverage Status](https://img.shields.io/coveralls/bitcoinnano/btcnano-mnemonic.svg?style=flat-square)](https://coveralls.io/r/bitcoinnano/btcnano-mnemonic)
 
 A module for [bitcore](https://github.com/bitpay/bitcore) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
